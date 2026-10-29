@@ -1,8 +1,13 @@
 
 body {
     font-family: Arial, sans-serif;
+<<<<<<< HEAD
     background-color: rgb(10, 79, 102);
     color: black;
+=======
+    background-color: green;
+    color: white;
+>>>>>>> origin/sahlan
     text-align: center;
 }
 
